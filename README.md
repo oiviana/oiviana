@@ -1,7 +1,9 @@
 # Hi There, I'm Lucas Viana! 👋
 
-- 💻 Computer Engineering student 
-- 📍 From SP - Brazil 
-- 📚 Currently studying React.js and Node.js
+- 💻 Majoring in Systems Analysis and Development
+- 👨‍💻 Computer Technician 
+- 📍  From Atibaia, SP - Brazil 
+- 📚 Currently studying web and mobile development
+- ⚛️ ReactJS, Typescript, React Native and NodeJs enthusiast
 - 💼 Looking for an internship or working as a Junior developer
 
