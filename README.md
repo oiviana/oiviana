@@ -9,7 +9,6 @@
 - 🗺️ From Atibaia, SP - Brazil 
 - 📚 Currently studying web and mobile development
 - ⚛️ ReactJS, Typescript, React Native and NodeJs enthusiast
-- 💼 Looking for an internship or working as a Junior developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oiviana&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
