@@ -9,7 +9,7 @@
 - 🗺️ From Atibaia, SP - Brazil 
 - 📚 Currently studying web and mobile development
 - ⚛️ ReactJS, Typescript, React Native and NodeJs enthusiast
-- 💼 Quality Assurance at @ACCT-global
+- 💼 Web Developer at @ACCT-global
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oiviana&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
