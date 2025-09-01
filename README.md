@@ -5,7 +5,7 @@
 - 📚 Currently studying web and mobile development
 - ⚛️ ReactJS, Typescript, React Native, NodeJS and VtexIO Developer.
 - 🗺️ From Atibaia, SP - Brazil 
-- 💼 Web Developer
+- 💼 Web and mobile Developer
 
 ##
 
