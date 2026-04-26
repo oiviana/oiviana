@@ -15,10 +15,10 @@ I build scalable solutions using **VTEX IO, FastStore and modern React ecosystem
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 My Stack
 
 **Front-end**  
-React • Next.js • TypeScript • Tailwind • Motion  
+React • React Native • Next.js • TypeScript • TailwindCSS • SASS • SanityIO • Contentful 
 
 **E-commerce**  
 VTEX IO • FastStore • VTEX Legacy • Deco.cx • Wake Commerce  
