@@ -21,10 +21,10 @@ I build scalable solutions using **VTEX IO, FastStore and modern React ecosystem
 React • Next.js • TypeScript • Tailwind • Motion  
 
 **E-commerce**  
-VTEX IO • FastStore • VTEX Legacy • Wake Commerce  
+VTEX IO • FastStore • VTEX Legacy • Deco.cx • Wake Commerce  
 
 **Back-end / APIs**  
-Node.js • GraphQL • REST • Supabase  
+NodeJS • GraphQL • REST • NestJS • Postgres • Supabase  
 
 **Workflow**  
 Git • GitHub • CI/CD • Code Review  
