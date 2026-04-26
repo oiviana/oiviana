@@ -66,6 +66,7 @@ Git • GitHub • CI/CD • Code Review
 **2021 — Front-end Career Start**  
 → Started with React and modern JavaScript ecosystem  
 → Focus on component architecture and best practices  
+
 ---
 
 ## 📫 Let's connect
