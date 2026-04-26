@@ -1,4 +1,4 @@
-# 🚀 Welcome to my GitHub — Lucas Viana
+# 🚀 Welcome to my GitHub
 
 Front-end Developer specialized in **high-performance e-commerce** and **mobile apps**.
 
