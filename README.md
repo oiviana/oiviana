@@ -8,7 +8,7 @@ I build scalable solutions using **VTEX IO, FastStore and modern React ecosystem
 
 ## 🧠 About Me
 
-💼 3+ years working with e-commerce platforms  
+💼 5+ years working with e-commerce platforms  
 🛒 Experience with large-scale stores and complex business rules  
 ⚡ Focus on performance, scalability and maintainability  
 🧩 Strong background in VTEX IO, Legacy CMS and FastStore  
