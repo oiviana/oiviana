@@ -51,17 +51,21 @@ Git • GitHub • CI/CD • Code Review
 
 ---
 
-## 🧰 Technologies
+## 🕒 Career Timeline
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="TS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Node" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="VTEX" height="40" width="40" src="https://user-images.githubusercontent.com/76710272/179615567-152f574a-c738-4885-b5d1-0afd12e2c654.png">
-</div>
+**2025 — Avanti**  
+→ Building scalable solutions for VTEX IO, FastStore and Legacy architectures  
+→ Maintaining and evolving Deco.cx storefronts  
+→ Active participation in code reviews and development workflows  
 
+**2023 — VTEX Ecosystem Projects**  
+→ Development of high-performance e-commerce solutions  
+→ Custom integrations with APIs and third-party services  
+→ Performance and UX improvements focused on conversion  
+
+**2021 — Front-end Career Start**  
+→ Started with React and modern JavaScript ecosystem  
+→ Focus on component architecture and best practices  
 ---
 
 ## 📫 Let's connect
