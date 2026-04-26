@@ -1,6 +1,6 @@
 # 🚀 Welcome to my GitHub — Lucas Viana
 
-Front-end Developer specialized in **high-performance e-commerce**.
+Front-end Developer specialized in **high-performance e-commerce** and **mobile apps**.
 
 I build scalable solutions using **VTEX IO, FastStore and modern React ecosystems**, focusing on performance, UX and real business impact.
 
