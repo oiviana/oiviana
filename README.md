@@ -65,11 +65,12 @@ I build scalable solutions using **VTEX IO, FastStore and modern React ecosystem
 
 ## 🚀 What I Deliver
 
-✔️ Scalable storefront components  
-✔️ Performance optimizations  
-✔️ Custom VTEX IO apps  
+✔️ Scalable and reusable storefront architectures  
+✔️ Performance optimization focused on Core Web Vitals and UX  
+✔️ Custom VTEX IO apps and complex e-commerce solutions  
 ✔️ Integration with APIs and third-party services  
-✔️ UX improvements focused on conversion  
+✔️ UX improvements focused on conversion and usability  
+✔️ Cross-platform mobile applications using React Native  
 
 ---
 
