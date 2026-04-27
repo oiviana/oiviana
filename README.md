@@ -31,7 +31,7 @@ I build scalable solutions using **VTEX IO, FastStore and modern React ecosystem
 ![VTEX IO](https://img.shields.io/badge/VTEX_IO-ED125F?style=flat&logo=vtex&logoColor=white)
 ![FastStore](https://img.shields.io/badge/FastStore-000?style=flat)
 ![VTEX Legacy](https://img.shields.io/badge/VTEX_Legacy-ED125F?style=flat)
-![Deco.cx](https://img.shields.io/badge/Deco.cx-FFFFFF?style=for-the-badge&logo=https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg&logoColor=0A7C3E)
+![Deco.cx](https://img.shields.io/badge/Deco.cx-FFFFFF?style=flat&logo=https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg&logoColor=0A7C3E)
 ![Wake](https://img.shields.io/badge/Wake_Commerce-FF6A00?style=flat)
 
 ### Back-end / APIs
