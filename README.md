@@ -77,18 +77,21 @@ I build scalable solutions using **VTEX IO, FastStore and modern React ecosystem
 ## 🕒 My Career
 
 **2025 — Avanti**  
-→ Building scalable solutions for VTEX IO, FastStore and Legacy architectures  
-→ Maintaining and evolving Deco.cx storefronts  
-→ Active participation in code reviews and development workflows  
+→ Development of custom e-commerce solutions using VTEX IO, FastStore and Legacy architectures  
+→ Evolution and maintenance of scalable storefronts, ensuring performance and code quality  
+→ Maintenance and growth of Deco.cx projects  
+→ Active participation in code reviews, team collaboration and best practices definition  
 
-**2023 — VTEX Ecosystem Projects**  
-→ Development of high-performance e-commerce solutions  
-→ Custom integrations with APIs and third-party services  
-→ Performance and UX improvements focused on conversion  
+**2024 — B8One**  
+→ Development of custom VTEX-based solutions for high-standard e-commerce projects  
+→ Implementation of new features, bug fixes and continuous improvements  
+→ Creation and maintenance of pages using Wake Commerce, focusing on performance and UX  
+→ Development of a mobile application using React Native with NestJS and Supabase backend  
 
-**2021 — Front-end Career Start**  
-→ Started with React and modern JavaScript ecosystem  
-→ Focus on component architecture and best practices  
+**2022 — Quality Digital**  
+→ Development of e-commerce web applications using Headless CMS and JAMstack architecture  
+→ Built projects with Gatsby and Next.js  
+→ Focus on performance, SEO and modern front-end best practices  
 
 ---
 
