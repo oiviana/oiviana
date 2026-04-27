@@ -41,6 +41,7 @@ I build scalable solutions using **VTEX IO, FastStore and modern React ecosystem
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
 ### Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
