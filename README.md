@@ -17,17 +17,36 @@ I build scalable solutions using **VTEX IO, FastStore and modern React ecosystem
 
 ## 🛠 My Stack
 
-**Front-end**  
-React • React Native • Next.js • TypeScript • TailwindCSS • SASS • SanityIO • Contentful 
+### Front-end
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-FF2D20?style=flat&logo=sanity&logoColor=white)
+![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=flat&logo=contentful&logoColor=white)
 
-**E-commerce**  
-VTEX IO • FastStore • VTEX Legacy • Deco.cx • Wake Commerce  
+### E-commerce
+![VTEX IO](https://img.shields.io/badge/VTEX_IO-ED125F?style=flat&logo=vtex&logoColor=white)
+![FastStore](https://img.shields.io/badge/FastStore-000?style=flat)
+![VTEX Legacy](https://img.shields.io/badge/VTEX_Legacy-ED125F?style=flat)
+![Deco](https://img.shields.io/badge/Deco.cx-000?style=flat)
+![Wake](https://img.shields.io/badge/Wake_Commerce-FF6A00?style=flat)
 
-**Back-end / APIs**  
-NodeJS • GraphQL • REST • NestJS • Postgres • Supabase  
+### Back-end / APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![REST](https://img.shields.io/badge/REST-000?style=flat)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-**Workflow**  
-Git • GitHub • CI/CD • Code Review  
+### Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![CI/CD](https://img.shields.io/badge/CI/CD-000?style=flat)
+![Code Review](https://img.shields.io/badge/Code_Review-000?style=flat)
 
 ---
 
