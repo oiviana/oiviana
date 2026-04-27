@@ -43,11 +43,13 @@ I build scalable solutions using **VTEX IO, FastStore and modern React ecosystem
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
-### Workflow
+### Workflow & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![CI/CD](https://img.shields.io/badge/CI/CD-000?style=flat)
-![Code Review](https://img.shields.io/badge/Code_Review-000?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=flat)
 
 ---
 
