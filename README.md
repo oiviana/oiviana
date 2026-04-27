@@ -2,7 +2,7 @@
 
 Front-end Developer specialized in **high-performance e-commerce** and **mobile apps**.
 
-I build scalable solutions using **VTEX IO, FastStore and modern React ecosystems**, focusing on performance, UX and real business impact.
+I build scalable e-commerce solutions using **VTEX IO, FastStore and modern React ecosystems**, while also delivering high-quality mobile applications with **React Native**, always focused on performance, UX and real business impact.
 
 ---
 
