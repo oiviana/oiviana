@@ -74,7 +74,7 @@ I build scalable solutions using **VTEX IO, FastStore and modern React ecosystem
 
 ---
 
-## 🕒 Career Timeline
+## 🕒 My Career
 
 **2025 — Avanti**  
 → Building scalable solutions for VTEX IO, FastStore and Legacy architectures  
